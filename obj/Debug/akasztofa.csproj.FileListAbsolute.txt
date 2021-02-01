@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\akasztofa\akasztofa\bin\Debug\akasztofa.exe.config
+C:\Users\PC\source\repos\akasztofa\akasztofa\bin\Debug\akasztofa.exe
+C:\Users\PC\source\repos\akasztofa\akasztofa\bin\Debug\akasztofa.pdb
+C:\Users\PC\source\repos\akasztofa\akasztofa\obj\Debug\akasztofa.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\akasztofa\akasztofa\obj\Debug\akasztofa.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\akasztofa\akasztofa\obj\Debug\akasztofa.exe
+C:\Users\PC\source\repos\akasztofa\akasztofa\obj\Debug\akasztofa.pdb
